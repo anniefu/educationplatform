@@ -1,3 +1,3 @@
-# SPS Group Project - Education Platfrom
+i# SPS Group Project - Education Platfrom
 
-Hello from Annie
+Helo from Annie
